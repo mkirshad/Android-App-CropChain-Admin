@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CROPCHAIN</string>
+    <string name="signin_url">http://www.kashifirshad.com/rates/UserSignIn.php</string>
+    <string name="product_url">http://www.kashifirshad.com/rates/Products.php</string>
+    <string name="product_rate_update_url">http://www.kashifirshad.com/rates/ProductRateUpdate.php</string>
+    <string name="product_refresh_completed">Products Refresh is completed</string>
+    <string name="note_on_listing1">*all rates in AED</string>
+    <string name="successful_login">Successfully Logged In!</string>
+    <string name="signup_not_present">SignUp functionality is not present!</string>
+    <string name="email_empty">Email is empty!</string>
+    <string name="password_empty">Password is empty!"</string>
+    <string name="loggedin_msg">You are logged in as : "</string>
+    <string name="invalid_rate">You have entered an invalid Rate</string>
+    <string name="rate_updated">Rate is updated Successfully</string>
+    <string name="rate_update_confirmation">Are you sure you want to update the Rate?</string>
+    <string name="cancelled">Action is cancelled!</string>
+    <string name="diag_rate">Rate Update</string>
+    <string name="update_in_process">Update is in process!</string>
+    <string name="error_network">Network Error</string>
+
+
+
+
+
+    <!--getString(R.string.loggedin_msg)-->
+</resources>
