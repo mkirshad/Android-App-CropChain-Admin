@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">CROPCHAIN</string>
-    <string name="signin_url">http://www.kashifirshad.com/rates/UserSignIn.php</string>
-    <string name="product_url">http://www.kashifirshad.com/rates/Products.php</string>
-    <string name="product_rate_update_url">http://www.kashifirshad.com/rates/ProductRateUpdate.php</string>
+    <string name="signin_url">http://209.150.155.175/UserSignIn.php</string>
+    <string name="product_url">http://209.150.155.175/Products.php</string>
+    <string name="product_rate_update_url">http://209.150.155.175/ProductRateUpdate.php</string>
     <string name="product_refresh_completed">Products Refresh is completed</string>
     <string name="note_on_listing1">*all rates in AED</string>
     <string name="successful_login">Successfully Logged In!</string>
